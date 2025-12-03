@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Devweekerson",
+        "account": {
+            "id": 1,
+            "number": "01.097954-4",
+            "agency": "2030",
+            "balance": 624.12,
+            "limit": 1000.0
+        },
+        "card": {
+            "id": 1,
+            "number": "xxxx xxxx xxxx 1111",
+            "limit": 2000.0
+        },
+        "features": [
+            {
+                "id": 1,
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+                "description": "PIX"
+            },
+            {
+                "id": 2,
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+                "description": "Pagar"
+            },
+            {
+                "id": 3,
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+                "description": "Transferir"
+            },
+            {
+                "id": 4,
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+                "description": "Conta Corrente"
+            },
+            {
+                "id": 5,
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+                "description": "Cartões"
+            }
+        ],
+        "news": [
+            {
+                "id": 2,
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+                "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 serviços pra você. Confira!"
+            },
+            {
+                "id": 1,
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "O Santander tem soluções de crédito sob medida pra você. Confira!"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "daivaison",
+        "account": {
+            "id": 1,
+            "number": "01.097954-5",
+            "agency": "2040",
+            "balance": 624.12,
+            "limit": 2000.0
+        }
+    },
+    {
+        "id": 3,
+        "name": "joao",
+        "account": {
+            "id": 1,
+            "number": "01.098054-5",
+            "agency": "2030",
+            "balance": 224.12,
+            "limit": 500.0
+        }
+    },
+    {
+        "id": 4,
+        "name": "fulano",
+        "account": {
+            "id": 1,
+            "number": "11.098054-5",
+            "agency": "2032",
+            "balance": 954.12,
+            "limit": 5000.0
+        }
+    }
+]
